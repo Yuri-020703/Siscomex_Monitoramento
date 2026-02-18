@@ -23,7 +23,7 @@ namespace SiscomexMonitor
         };
 
         // Configurações do e-mail
-        private static string smtpHost = "smtp.office365.com";
+        private static string smtpHost = "-----";
 
         private static int smtpPort = 587;
         private static bool EnableSsl = true;
@@ -116,3 +116,4 @@ namespace SiscomexMonitor
         }
     }
 }
+
