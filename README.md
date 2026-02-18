@@ -18,7 +18,7 @@ Ele atualiza arquivos locais 💾 e envia notificações por e-mail ✉️ sempr
 
 ## Contexto
 
-Em dezembro de 2025, uma atualização nas APIs do Portal Único Siscomex exigiu ajustes técnicos na integração do E-DX.  
+Em dezembro de 2025, uma atualização nas APIs do Portal Único Siscomex exigiu ajustes técnicos na integração de um produto interno.  
 Diante disso, foi desenvolvido este programa interno para **identificar alterações antes que impactem o ambiente produtivo**.
 
 ---
